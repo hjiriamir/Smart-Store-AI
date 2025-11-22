@@ -110,6 +110,14 @@ Plan 3D
 <img width="2960" height="2290" alt="store_plan-3D-2-landscape" src="https://github.com/user-attachments/assets/1e0a7446-6ca8-4286-bc72-4fc4c0834885" />
 <img width="2960" height="2290" alt="store_plan-3D-landscape" src="https://github.com/user-attachments/assets/46ed2694-cf69-4779-b60a-5ef946929066" />
 
+### Gestion des abonnements
+
+<img width="2960" height="2290" alt="gestion-abonnements-analyse1-landscape" src="https://github.com/user-attachments/assets/41c60cbf-7c92-4fb6-a859-9e8955857826" />
+
+
+### Zonage du magasin
+
+<img width="2960" height="2290" alt="Zonnage-magasin-landscape" src="https://github.com/user-attachments/assets/9dc12604-3764-4ff7-ac66-4128b90fc838" />
 
 
 ---
