@@ -1,0 +1,121 @@
+# 🔒 Smart Store — Plateforme SaaS Intelligente pour la Gestion de Magasins
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+</div>
+
+**Smart Store** est une plateforme professionnelle développée pour la gestion opérationnelle, marketing et planification 2D/3D des magasins.  
+Le code source est privé, mais le projet peut être présenté lors d’un entretien ou sur demande.
+
+---
+
+## 🌟 Présentation
+Smart Store permet de gérer **les abonnements, les utilisateurs, les produits, les collaborateurs, les planogrammes et le marketing**, tout en offrant une interface 2D/3D interactive et un moteur IA pour l’optimisation du placement des produits et meubles.
+
+- 🔒 **Statut :** Projet privé / code non public  
+- 💻 **Technologies :** React, Three.js, Node.js, Express, MongoDB, Scikit-learn, XGBoost, Talend, Cloudinary  
+- 🚀 **Objectif :** Automatiser et digitaliser la gestion complète d’un magasin physique.
+
+---
+
+## 🛠️ Fonctionnalités principales
+
+### 1️⃣ Gestion des abonnements et accès utilisateurs
+- Consultation des offres et choix de l’abonnement.  
+- Remplissage d’une demande d’abonnement.  
+- Validation par le super admin et envoi automatique d’email avec identifiants.  
+- Activation du compte admin pour accès à l’interface Smart Store.
+
+### 2️⃣ Workflow de l’admin
+- **Création et zonage du magasin** : découpage du magasin en zones via interface réactive.  
+- **Planification 2D** : génération automatique du plan avec dimensions réelles et placement des meubles.  
+- **Gestion des produits** : import massif depuis Excel/CSV.  
+- **Gestion des collaborateurs** : CRUD utilisateurs avec rôles variés (store manager, employé terrain).  
+- **Communication et formation** : conversations internes, gestion FAQs et formations.
+
+### 3️⃣ Génération et gestion des planogrammes
+- Placement manuel via drag & drop.  
+- Génération automatique par IA (modèle prédictif des meubles et produits).  
+- Affectation et suivi des planogrammes comme tâches aux utilisateurs terrain.
+
+### 4️⃣ Gestion du plan 3D
+- Importation du plan 2D existant et des meubles.  
+- Placement interactif des éléments 3D : murs, portes, fenêtres, mobilier.
+
+### 5️⃣ Gestion marketing
+- Promotions et offres ciblées.  
+- Analyse de performance par planogramme et par zone.  
+- Zonage intelligent avec recommandations basées sur l’affluence.  
+- Gamification : challenges clients avec points et récompenses.  
+- Analyse physique : visiteurs, temps passé, affluence par zone.  
+- Gestion du stock et étiquetage produits intégré aux planogrammes.
+
+### 6️⃣ Workflow des utilisateurs terrain
+- Accès au dashboard : actualités, planogrammes, notifications.  
+- Visualisation et gestion des tâches : marquer les meubles comme terminés.  
+- Suivi et traçabilité des tâches avec commentaires et fichiers.  
+- Communication interne en temps réel avec le siège.  
+- Consultation des fiches produits et emplacements dans la bibliothèque.
+
+---
+
+## ⚡ Stack technique
+
+### Frontend / 3D
+- **React.js** et **TailwindCSS** pour l’UI réactive et moderne  
+- **Three.js & React Three Fiber** pour le rendu 3D interactif  
+- **Canvas API** pour les éléments graphiques personnalisés
+
+### Backend / API
+- **Node.js & Express.js** pour les APIs REST  
+- **MongoDB** pour la gestion des données  
+- **JWT** pour l’authentification sécurisée  
+- **Cloudinary** pour le stockage et gestion des assets médias
+
+### Intelligence Artificielle
+- **Scikit-learn, Random Forest, XGBoost** pour la génération prédictive des planogrammes
+
+### ETL / Data Processing
+- **Talend Open Studio** pour l’automatisation des flux de données et import/export Excel
+
+---
+
+## ✅ Ce que j’ai réalisé
+- Conception et développement complet de l’architecture backend.  
+- Mise en place d’un système avancé de rôles, permissions et workflows utilisateurs.  
+- Développement du module de planification **2D** et contribution au rendu **3D** via Three.js & React Fiber.  
+- Automatisation du traitement des données (import Excel, génération planogrammes, notifications).  
+- Intégration d’un modèle IA pour la génération automatique des planogrammes.  
+- Optimisation des performances (API, rendu 2D/3D, temps de chargement).  
+- Intégration cloud : stockage fichiers, optimisation des assets et pipelines CI/CD.
+
+---
+
+## 📸 Captures d’écran (exemples)
+> *Screenshots et GIFs peuvent être ajoutés ici pour valoriser visuellement le projet*
+
+### Dashboard Admin
+![Dashboard Admin](assets/dashboard.png)
+
+### Plan 2D / 3D
+![Plan 3D](assets/plan3d.gif)
+
+---
+
+## 🚀 Objectifs et apprentissages
+- Développement Full Stack complet d’une plateforme SaaS complexe.  
+- Intégration de l’IA pour automatisation de tâches métier.  
+- Gestion avancée des utilisateurs et rôles avec workflow sécurisé.  
+- Travail sur rendu 3D interactif et visualisation des magasins.
+
+---
+
+## 📫 Me contacter
+- ✉️ Email : Amir.HJIRI@esprit.tn  
+- 💼 LinkedIn : [linkedin.com/in/amir-hjiri](https://www.linkedin.com/in/amir-hjiri/)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
