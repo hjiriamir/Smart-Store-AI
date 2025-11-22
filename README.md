@@ -94,11 +94,23 @@ Smart Store permet de gérer **les abonnements, les utilisateurs, les produits, 
 ## 📸 Captures d’écran (exemples)
 > *Screenshots et GIFs peuvent être ajoutés ici pour valoriser visuellement le projet*
 
-### Dashboard Admin
-![Dashboard Admin](assets/dashboard.png)
+### Acceuil
+
+<img width="2949" height="2266" alt="accueil-landscape" src="https://github.com/user-attachments/assets/c0e95c36-9c78-46c5-b286-79443345b04b" />
+
 
 ### Plan 2D / 3D
-![Plan 3D](assets/plan3d.gif)
+Plan 2D
+
+<img width="2960" height="2290" alt="plan2D-magasin-landscape" src="https://github.com/user-attachments/assets/c2d18ab5-171d-4900-8597-832f9ef2e641" />
+
+
+Plan 3D
+
+<img width="2960" height="2290" alt="store_plan-3D-2-landscape" src="https://github.com/user-attachments/assets/1e0a7446-6ca8-4286-bc72-4fc4c0834885" />
+<img width="2960" height="2290" alt="store_plan-3D-landscape" src="https://github.com/user-attachments/assets/46ed2694-cf69-4779-b60a-5ef946929066" />
+
+
 
 ---
 
