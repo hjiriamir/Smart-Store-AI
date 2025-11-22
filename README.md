@@ -13,7 +13,7 @@ Le code source est privé, mais le projet peut être présenté lors d’un entr
 Smart Store permet de gérer **les abonnements, les utilisateurs, les produits, les collaborateurs, les planogrammes et le marketing**, tout en offrant une interface 2D/3D interactive et un moteur IA pour l’optimisation du placement des produits et meubles.
 
 - 🔒 **Statut :** Projet privé / code non public  
-- 💻 **Technologies :** React, Three.js, Node.js, Express, MongoDB, Scikit-learn, XGBoost, Talend, Cloudinary  
+- 💻 **Technologies :** React, Three.js, Node.js, Express, MySQL, Scikit-learn, XGBoost, Talend, Cloudinary  
 - 🚀 **Objectif :** Automatiser et digitaliser la gestion complète d’un magasin physique.
 
 ---
@@ -68,7 +68,7 @@ Smart Store permet de gérer **les abonnements, les utilisateurs, les produits, 
 
 ### Backend / API
 - **Node.js & Express.js** pour les APIs REST  
-- **MongoDB** pour la gestion des données  
+- **MySQL** pour la gestion des données  
 - **JWT** pour l’authentification sécurisée  
 - **Cloudinary** pour le stockage et gestion des assets médias
 
